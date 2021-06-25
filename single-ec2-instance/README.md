@@ -10,7 +10,7 @@ Be aware that Terraform won't take region from the `config` file
 
 It takes only credentials from `credentials` file
 
-## double check `ami` identifiers (e.g.: they can be different for other regions)
+### double check `ami` identifiers (e.g.: they can be different for other regions)
 
 &nbsp;
 
